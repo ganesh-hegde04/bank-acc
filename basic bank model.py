@@ -10,4 +10,4 @@ class Account():
          print("sorry,insufficient money!!")
   def __str__(self):
      return f"owner:{self.owner} \nbalance:{self.balance}"
-a=Account("ganesh",400)
+a=Account("human",400)
